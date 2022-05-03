@@ -1,0 +1,3 @@
+local SessionData = {}
+
+return SessionData
